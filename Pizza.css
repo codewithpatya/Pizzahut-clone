@@ -1,0 +1,55 @@
+.header1{
+    display: flex;
+    justify-content: space-between;
+}
+.header1 img{
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+}
+.header1 h6{
+    margin-right: 300px;
+    margin-top: 10px;
+}
+nav .navbar1{
+   display: flex;
+   justify-content: space-between;
+  height: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  align-items: center;
+  
+
+}
+a{
+    text-decoration: none !important;
+    color: black !important;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+a:hover{
+    background-color: cornflowerblue;
+}
+
+
+.deals{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.card-body h6{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body button{
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 4px;
+    height: 40px;
+    width: 300px;
+}

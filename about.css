@@ -1,0 +1,40 @@
+.mainabout{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 1px solid black;
+    background-image: url(./Aboutbg.jpg);
+}
+.mainabout p{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight:bolder;
+}
+.mainabout h2{
+    margin-left: 7px;
+}
+.about{
+    background-image: url(./greybg.jpg)
+}
+li:hover{
+    background-color: aquamarine;
+}
+ul li{
+    width: 200px;
+    align-items: center;
+}
+.card-body h6{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body button{
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 4px;
+    height: 40px;
+    width: 300px;
+}

@@ -1,0 +1,33 @@
+.row{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btn{
+    width: 365px;
+    margin-top: 10px;
+}
+.vegpizza{
+    background-image: url(./greybg.jpg);
+}
+.about{
+    background-image: url(./Aboutbg.jpg);
+}
+li:hover{
+    background-color: aquamarine;
+}
+ul li{
+    width: 200px;
+    align-items: center;
+}
+.card-body h6{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body button{
+    border: none;
+    color: white;
+    background-color: green;
+    border-radius: 4px;
+    height: 40px;
+    width: 300px;
+}
